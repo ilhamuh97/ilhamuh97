@@ -16,11 +16,17 @@
 
 ⚡ Fun fact **The words "bug" and "debugging" took off in 1947 when Harvard Mark II computer technicians found a literal moth trapped inside a machine relay**
 
-<br/>
+</div>
+
+<div align="center">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilhammuhammad-735b2b187) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilham-muhammad@hotmail.com) 
 
+</div>
+
+<div align="center">
+    
 ## 🛠️ Tech Stack:
 
 ### 💻 Frontend
