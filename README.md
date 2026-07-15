@@ -7,15 +7,12 @@
 <br/>
 
 <div align="center">
-## About Me
-    
- 🔭 I’m currently working as **Software Engineer**
- 
- 🌱 I’m currently learning **Software Architecture** and striving to become a better person every day.
+## 👨‍💻 About Me
 
-💬 Ask me about **React, Next.js, Node.js, Java Spring boot, or anything web development.**
-
-⚡ Fun fact **The words "bug" and "debugging" took off in 1947 when Harvard Mark II computer technicians found a literal moth trapped inside a machine relay**
+🔭 Currently working as a Software Engineer  
+🌱 Currently learning Software Architecture  
+💬 Ask me about React, Next.js, Node.js, Spring Boot, or Web Development  
+⚡ Fun fact: The words "bug" and "debugging" took off in 1947 when Harvard Mark II computer technicians found a literal moth trapped inside a machine relay
 
 </div>
 
