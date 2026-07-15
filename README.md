@@ -4,9 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=3B82F6&lines=Hi+There!+👋;+I'm+Ilham+Muhammad!;" />
 </h1>
 
-<br/>
-
-<div align="center">
 ## 👨‍💻 About Me
 
 🔭 Currently working as a Software Engineer  
@@ -14,17 +11,9 @@
 💬 Ask me about React, Next.js, Node.js, Spring Boot, or Web Development  
 ⚡ Fun fact: The words "bug" and "debugging" took off in 1947 when Harvard Mark II computer technicians found a literal moth trapped inside a machine relay
 
-</div>
-
-<div align="center">
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilhammuhammad-735b2b187) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilham-muhammad@hotmail.com) 
 
-</div>
-
-<div align="center">
-    
 ## 🛠️ Tech Stack:
 
 ### 💻 Frontend
@@ -76,5 +65,3 @@
 ### 💻 Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
- </div>
